@@ -149,9 +149,10 @@ h2 {
 }
 
 .ipad-logo {
-  margin-top: 30px;
-  margin-left: 300px;
+  display: block;
+  margin: auto;
   padding-bottom: 20px;
+  padding-top: 30px;
 }
 
 .card-text {
@@ -256,4 +257,5 @@ footer {
 .find {
   text-decoration: underline;
   color: #0071e3;
+  cursor: pointer;
 }
